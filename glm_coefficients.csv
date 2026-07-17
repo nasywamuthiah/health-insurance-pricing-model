@@ -1,0 +1,10 @@
+,coef,exp_coef (faktor),p_value
+Intercept,7.4287,1683.6624,0.0
+C(smoker)[T.yes],1.4904,4.4391,0.0
+C(sex)[T.male],-0.0642,0.9378,0.1227
+C(region)[T.northwest],-0.0518,0.9495,0.3826
+C(region)[T.southeast],-0.1137,0.8925,0.0566
+C(region)[T.southwest],-0.1492,0.8614,0.0117
+age,0.0281,1.0285,0.0
+bmi,0.0141,1.0142,0.0001
+children,0.0738,1.0766,0.0
